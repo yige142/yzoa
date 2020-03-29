@@ -1,0 +1,12 @@
+2020-03-29 17:41:12.179  INFO 9228 --- [main] cn.xyz.yzoa.YzoaApplicationTests         : Starting YzoaApplicationTests on DESKTOP-GD3CDS6 with PID 9228 (started by Hasee in E:\JAVA\JAVAWORK\yzoa)
+2020-03-29 17:41:12.181  INFO 9228 --- [main] cn.xyz.yzoa.YzoaApplicationTests         : No active profile set, falling back to default profiles: default
+2020-03-29 17:41:13.756  INFO 9228 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-29 17:41:14.022  WARN 9228 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-03-29 17:41:14.530  INFO 9228 --- [main] cn.xyz.yzoa.YzoaApplicationTests         : Started YzoaApplicationTests in 2.821 seconds (JVM running for 3.977)
+2020-03-29 17:41:14.874  INFO 9228 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-29 17:46:44.140  INFO 11728 --- [main] cn.xyz.yzoa.YzoaApplicationTests         : Starting YzoaApplicationTests on DESKTOP-GD3CDS6 with PID 11728 (started by Hasee in E:\JAVA\JAVAWORK\yzoa)
+2020-03-29 17:46:44.169  INFO 11728 --- [main] cn.xyz.yzoa.YzoaApplicationTests         : No active profile set, falling back to default profiles: default
+2020-03-29 17:46:45.870  INFO 11728 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-29 17:46:46.175  WARN 11728 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-03-29 17:46:46.646  INFO 11728 --- [main] cn.xyz.yzoa.YzoaApplicationTests         : Started YzoaApplicationTests in 3.045 seconds (JVM running for 4.45)
+2020-03-29 17:46:46.991  INFO 11728 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
